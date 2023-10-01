@@ -1,4 +1,4 @@
-baseURL = 'https://chic-longma-06cc5e.netlify.app/'
+baseURL = 'https://learn-ruby-with-tests.pmareke.com/'
 title = 'Learn Ruby with Tests'
 theme = 'hugo-book'
 
