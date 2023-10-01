@@ -1,6 +1,5 @@
 ---
-weight: 2
-title: Chapters
+weight: 1
 ---
 
 # Introduction
