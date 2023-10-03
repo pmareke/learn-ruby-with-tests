@@ -8,14 +8,20 @@ type: docs
 ## Learn Test-Driven Development with Ruby
 
 * Explore the Ruby language by writing tests.
-* **Get a grounding with TDD**.
-    * Ruby is a good language for learning TDD because it is a simple language to learn and testing is built-in.
+* Ruby is a good language for learning TDD because it is a simple language to learn and testing is really simple.
 * Be confident that you'll be able to start writing robust, well-tested systems in Ruby.
 
 ## Who this is for
 
 * People who are interested in picking up Ruby.
 * People who already know some Ruby, but want to explore testing more.
+
+## What you'll need
+* A computer!.
+* Installed [Ruby](/docs/before-start/install-ruby/).
+* A text editor.
+* Some experience with programming.
+* Comfortable using the terminal.
 
 ## Feedback
 
