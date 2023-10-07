@@ -5,10 +5,13 @@ weight: 4
 
 # Install Minitest
 
-For this book we're going to use [Minitest](https://github.com/minitest/minitest),
-this testing tool was added to Ruby’s standard library.
+For this book we're going to use [Minitest](https://github.com/minitest/minitest) 
+as the testing framerwork. There are another alternatives like `RSpec` but for the
+sake of simplicity I prefer to use Minitest.
 
 ## How to install Minitest
+
+In order to add a new library in our project we just need to add them in the `Gemfile` file:
 
 ```sh
 # Gemfile
@@ -17,14 +20,17 @@ source "https://rubygems.org"
 gem "minitest"
 ```
 
+After that we need to install it using the following command:
+
 ```sh
 bundle install
 ```
+If everything works fine now we're in a position to create our first test.
 
 ## Validate Minitest is installed
 
 Once you have Minitest installed you need to create
-a new file called `test_foo.rb` with the following code
+a new file called `test_foo.rb` inside the `src` folder with the following code
 (*right now don't care about it!*):
 
 ```ruby
@@ -39,7 +45,7 @@ end
 Save the file and run the following command in the terminal:
 
 ```sh
-ruby test_foo.rb
+ruby tests/test_foo.rb
 ```
 
 You should see something like these results:
