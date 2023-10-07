@@ -23,6 +23,10 @@ type: docs
 * Some experience with programming.
 * Comfortable using the terminal.
 
+## Code Examples
+
+The code for each chapter is available [here](https://github.com/pmareke/learn-ruby-with-tests/tree/main/examples).
+
 ## Feedback
 
 * Add issues/submit PRs [here](https://github.com/pmareke/learn-ruby-with-tests) or [tweet me @pmareke](https://twitter.com/pmareke)
