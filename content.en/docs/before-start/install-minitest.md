@@ -29,6 +29,8 @@ If everything works fine now we're in a position to create our first test.
 
 ## Validate Minitest is installed
 
+**[You can find all the code for this chapter here](https://github.com/pmareke/learn-ruby-with-tests/tree/main/examples/test_foo.rb)**
+
 Once you have Minitest installed you need to create
 a new file called `test_foo.rb` inside the `src` folder with the following code
 (*right now don't care about it!*):
